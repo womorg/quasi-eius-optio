@@ -1,10 +1,10 @@
 {
   "name": "@womorg/quasi-eius-optio",
-  "version": "16.32.351",
+  "version": "17.32.351",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/accusantium-doloribus-quod": "^1.0.0",
